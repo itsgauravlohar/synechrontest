@@ -1,0 +1,44 @@
+<h3>Advance Search:</h3>
+<hr>
+<form class="example-form">
+  <mat-form-field class="example-full-width">
+    <mat-label>Search</mat-label>
+    <input matInput placeholder="Search" [(ngModel)]="filterBySearch" [ngModelOptions]="{standalone: true}"/>
+  </mat-form-field>
+  <hr />
+  <mat-form-field class="example-full-width">
+    <mat-label>Type</mat-label>
+    <mat-select [(ngModel)]="filterByType" [ngModelOptions]="{standalone: true}">
+      @for (type of filterType; track type) {
+      <mat-option [value]="type.name">{{ type.name }}</mat-option>
+      }
+    </mat-select>
+  </mat-form-field>
+  <hr />
+
+  <section class="example-section" [formGroup]="filterByRange">
+    <h4>Price:</h4>
+    <p><mat-checkbox formControlName="0-1000">0-1000</mat-checkbox></p>
+    <p><mat-checkbox formControlName="1001-1500">1001-1500</mat-checkbox></p>
+    <p><mat-checkbox formControlName="1501-3000">1501-3000</mat-checkbox></p>
+    <p><mat-checkbox formControlName="3001-6000">3001-6000</mat-checkbox></p>
+    <p><mat-checkbox formControlName="6001-10000">6001-10000</mat-checkbox></p>
+  </section>
+  <hr>
+  <section>
+    <div class="example-button-row">
+      <div class="example-flex-container">
+        <div class="example-button-container" fxLayoutAlign="space-between center" fxLayoutGap="10">
+          <button mat-fab extended (click)="doFilter($event)" fxFlex>
+            <mat-icon>search</mat-icon>
+            Apply
+          </button>
+          <button mat-fab extended (click)="clear($event)" fxFlex>
+            <mat-icon>clear</mat-icon>
+            Clear
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+</form>

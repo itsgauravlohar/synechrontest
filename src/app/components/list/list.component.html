@@ -1,0 +1,28 @@
+<div fxLayout="row wrap" fxLayoutGap="10">
+  <div fxFlex></div>
+  <div fxFlex="20">
+    <app-product-filter (handleFilter)="handleFilter($event)"></app-product-filter>
+  </div>
+  <div fxFlex="70">
+    <h3>Product list:</h3>
+    <hr>
+    @if (_dataSource && _dataSource.length > 0) {
+      @for (product of _dataSource; track $index) {
+        <app-card [product]="product"></app-card>
+      }
+    } 
+    @else {
+      <p style="height: 100%; align-self: center;">No Product Available...!!</p>
+    }
+    <mat-paginator
+      (page)="handlePageEvent($event)"
+      [length]="length"
+      [pageSize]="pageSize"
+      [showFirstLastButtons]="showFirstLastButtons"
+      [pageSizeOptions]="pageSizeOptions"
+      [pageIndex]="pageIndex"
+      aria-label="Select page">
+  </mat-paginator>
+  </div>
+  <div fxFlex></div>
+</div>

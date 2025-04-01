@@ -1,0 +1,165 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Open Box - Apple MacBook Air 15.3\" Touch ID (Fall 2024) - Starlight (Apple M3 / 16GB RAM / 256GB SSD) - English",
+            "description": "*Open Box product. Minimum 1-year warranty. See more information below.** The Apple MacBook Air is supercharged with the Apple M3 chip. The M3 chip starts the next generation of Apple silicon, with even more speed and power efficiency. You can work with more streams of 4K and 8K ProRes video with the high‑performance media engine, and keep working — or playing — all day and into the night.",
+            "price": 1199.99,
+            "customerRating": 4.5,
+            "reviews": 4432,
+            "category": "Laptops & MacBooks",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/189/18925/18925110.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "ASUS ROG Strix SCAR 18\" Gaming Laptop - Off Black (Intel Core Ultra 9-275HX/64GB RAM/4TB SSD/RTX 5090)",
+            "description": "Dominate your gaming sessions with the ASUS ROG Strix Scar gaming laptop. Its Intel Core Ultra 9 processor and 64GB DDR5 RAM enable smooth gameplay. Store games fast on the 4TB solid state drive. The NVIDIA RTX 5090 GPU delivers immersive visuals on a 18-inch 2560 x 1600 LED display with a 240Hz refresh rate. Wi-Fi 7 and Bluetooth options keep you connected.",
+            "price": 6999.99,
+            "customerRating": 5,
+            "reviews": 100,
+            "category": "Laptops & MacBooks",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19186/19186642.jpg"
+        },
+        {
+            "id": 3,
+            "name": "ASUS ROG Zephyrus G16 16\" Gaming Laptop - Platinum White (Intel Core Ultra 9-285H/64GB RAM/2TB SSD/RTX 5090)",
+            "description": "Unleash gaming power with ASUS ROG Zephyrus G16 gaming laptop. It has an Intel Core Ultra 9 processor and 64GB RAM for seamless gaming. NVIDIA GeForce RTX 5090 GPU offers stunning graphics, while the ROG Intelligent Cooling keeps the laptop cool during intense gameplay. Enjoy smooth visuals with a 16-inch OLED display, 240Hz refresh rate, and NVIDIA G-SYNC.",
+            "price": 5999.99,
+            "customerRating": 4.5,
+            "reviews": 60,
+            "category": "Laptops & MacBooks",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19186/19186643.jpg"
+        },
+        {
+            "id": 4,
+            "name": "MSI Claw 8 AI + A2VM 8\" 1200p Touchscreen Gaming Console (Intel Core Ultra 7-258V/32GB RAM/1TB SSD/Win 11)",
+            "description": "Game without limits with the MSI Claw 8 AI+ A2VM gaming console. It's powered by the Intel Core Ultra 7 processor for seamless multitasking and precision. The vibrant eight-inch FHD+ touchscreen with 120Hz refresh rate and 100% sRGB, delivers stunning visuals. Cooler Boost HyperFlow technology keeps the components cool for optimal functioning.",
+            "price": 1299.99,
+            "customerRating": 4.5,
+            "reviews": 40,
+            "category": "Laptops & MacBooks",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/189/18929/18929526.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Apple MacBook Pro 14.2\" (Fall 2024) - Silver (Apple M4 Pro / 24GB RAM / 512GB SSD) - English",
+            "description": "The Apple MacBook Pro 14.2\" (Fall 2024) takes its power and efficiency further than ever. Supercharged by M4 Pro, it delivers exceptional performance whether it’s plugged in or not, and now has even longer battery life. Combined with a stunning Liquid Retina XDR display and all the ports you need—this is a pro laptop without equal.",
+            "price": 1199.99,
+            "customerRating": 4.9,
+            "reviews": 65,
+            "category": "Laptops & MacBooks",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/136/13655/13655260.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Samsung Galaxy S24 128GB - Onyx Black - Unlocked",
+            "description": "Seize the moment with the Samsung Galaxy S24. Powered with Galaxy AI, the S24 adapts to your passions and favourites on your phone for a personalized mobile experience. Enjoy powerful, helpful, and useful features, like Circle to Search, Live Translate, Note Assist, and Chat Assist to help you achieve more. Built to open new possibilities, it's epic, just like that.",
+            "price": 699.99,
+            "customerRating": 4.5,
+            "reviews": 58,
+            "category": "Phones",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/176/17650/17650634.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Refurbished (Excellent) - Apple iPhone 13 128GB - Midnight - Unlocked",
+            "description": "Stand out and show-off your superpowers with the iPhone 13. It features the powerful A15 Bionic chip, superfast 5G to download and stream high-quality video, a bright 6.1\" Super Retina XDR display, and Ceramic Shield for better drop performance. Other features include 4K Dolby Vision HDR recording, an advanced dual-camera system with Night mode, extra-ordinary battery life, and much more.",
+            "price": 443.98,
+            "customerRating": 4.5,
+            "reviews": 34,
+            "category": "Phones",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15922/15922556.jpeg"
+        },
+        {
+            "id": 8,
+            "name": "Samsung Galaxy S25 256GB - Silver Shadow - Unlocked",
+            "description": "From work to play, Samsung Galaxy S25 keeps you ahead of the game. Powered by next-gen processor, it features AI-powered advanced sleep, night video with audio erase, Now Brief, and many more tools to help you live smarter. Whether you're capturing stunning portraits, staying productive on-the-go, or enjoying your favourite content, this phone is built to deliver.",
+            "price": 1088.99,
+            "customerRating": 3.8,
+            "reviews": 11,
+            "category": "Phones",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/189/18925/18925588.jpg"
+        },
+        {
+            "id": 9,
+            "name": "OnePlus 12R 5G 256GB - Iron Grey - Unlocked",
+            "description": "Easily take on any task with the OnePlus 12R smartphone. This powerful device features 256GB of storage and a bright 6.78-inch screen so you can enjoy browsing your favourite photos and videos with ease. With its triple camera system and long-lasting battery, this productive pick will meet and exceed your needs.",
+            "price": 799.99,
+            "customerRating": 4.5,
+            "reviews": 89,
+            "category": "Phones",
+            "imaage": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/189/18925/18925588.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Insignia 3.2 Cu. Ft. 115-Can Beverage Centre (NS-BC115SS9) - Stainless Steel - Only at Best Buy",
+            "description": "This freestanding bar fridge from Insignia offers 3.2 cu. ft. of space for up to 115 cans of beer, soda, and more. Touch controls make it easy to chill your beverages in a range of 1 to 10 degrees Celsius (34 to 50 degrees Fahrenheit). With removable shelving, you can store larger items to ensure you're always prepared. It stays free of ice and condensation with an auto-defrosting fan.",
+            "price": 349.99,
+            "customerRating": 4.6,
+            "reviews": 5625,
+            "category": "Appliances",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/109/10942/10942869.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Insignia 30\" 18 Cu. Ft. Top Freezer Refrigerator w/ LED Lighting (NS-RTM18WH8Q) -White -Only at Best Buy",
+            "description": "Keep all of your supermarket finds fresh or frozen with this Insignia 18 cu. ft. fridge. It features a top-mount freezer that keeps all of your favourite frozen treats at sub-zero levels. The fresh food compartment includes spill-proof shelves, adjustable door bins, and 2 crisper drawers for your fruits and veggies.",
+            "price": 799.99,
+            "customerRating": 4.4,
+            "reviews": 3009,
+            "category": "Appliances",
+            "imaage": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/109/10942/10942869.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Samsung Over-The-Range Microwave - 2.1 Cu. Ft. - Stainless Steel",
+            "description": "Enjoy cooking in your space with help from a Samsung over-the-range microwave. This handy microwave offers 2.1 cu. ft. of cooking space, and powerful features like sensor cook, which automatically adjusts the cooking settings as needed. Thanks to its eco-friendly features, and powerful ventilation system, this microwave is a versatile addition to your kitchen.",
+            "price": 399.99,
+            "customerRating": 4.6,
+            "reviews": 399,
+            "category": "Appliances",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/178/17853/17853486.jpg"
+        },
+        {
+            "id": 13,
+            "name": "TCL 55\" S-Series 4K UHD HDR LED Roku OS Smart TV (55S450R-CA) - 2023",
+            "description": "Experience next level of visual entertainment with TCL 55 S-Series smart TV. Its 4K UHD screen resolution, 6.5ms response time and a 60Hz refresh rate guarantee extremely smooth, clear and realistic picture. Three HDMI 1.4a inputs let you watch high-quality content from different sources and dual-band Wi-Fi allows you to wirelessly stream various content.",
+            "price": 369.99,
+            "customerRating": 3.5,
+            "reviews": 32,
+            "category": "TVs",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/166/16693/16693232.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Samsung 65\" 4K UHD HDR LED Tizen OS Smart TV (UN65DU6900FXZC) - 2024",
+            "description": "Upgrade your immersive entertainment experience with this Samsung 65-inch Smart TV. Featuring 4K Ultra HD resolution and 60Hz refresh rate, this TV delivers crisp and clear picture quality with smoother visuals. The 4K upscaling boosts the quality of low-resolution content to almost 4K resolution. With Q-Symphony and OTS Lite you get to experience great audio quality.",
+            "price": 596.99,
+            "customerRating": 4.4,
+            "reviews": 1056,
+            "category": "TVs",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/179/17905/17905284.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Meta Quest 3 512GB VR Headset with Touch Plus Controllers & Batman: Arkham Shadow",
+            "description": "Expand your world with Meta Quest 3, a mixed-reality headset that lets you jump into full immersion or blend physical and virtual worlds to transform your home into an exciting new playground. This powerful headset is reimagined from the inside out with breakthrough technology. Extraordinary experiences come to life with lightning-fast performance and dazzling details.",
+            "price": 679.99,
+            "customerRating": 4.7,
+            "reviews": 4490,
+            "category": "Video Games",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/184/18473/18473493.jpg"
+        },
+        {
+            "id": 16,
+            "name": "PlayStation 5 Slim Astro Bot Bundle",
+            "description": "Buckle up for a space adventure with the PlayStation 5 Slim Astro Bot bundle. Embark on a galactic quest and explore 50+ planets in search of Astro’s lost crew. The PS5 console features lightning fast loading with an ultra-high speed solid state drive, deeper immersion with support for haptic feedback, adaptive triggers, and 3D Audio2",
+            "price": 1199.99,
+            "customerRating": 5,
+            "reviews": 3,
+            "category": "Video Games",
+            "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/191/19185/19185140.jpg"
+        }
+    ],
+    "mycart": []
+}

@@ -1,0 +1,28 @@
+.mat-mdc-card-outlined {
+    background-color: inherit !important;
+}
+
+.example-card {
+    max-width: 18rem;
+    min-height: 31rem;
+    padding: 5px;
+    margin: 15px 5px;
+    display: inline-flex;
+    
+    mat-mdc-card-header {
+        display: flex;
+        padding: 16px 16px 0;
+        width: auto;
+        display: contents;
+    }
+
+    .example-header-image,
+    img {
+        background-size: cover;
+        height: 15rem;
+    }
+
+    .btn-action {
+        background-color: ;
+    }
+}

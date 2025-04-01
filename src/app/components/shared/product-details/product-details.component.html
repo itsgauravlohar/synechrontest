@@ -1,0 +1,22 @@
+<h2 mat-dialog-title>Product Details</h2>
+<mat-dialog-content class="mat-typography">
+  <h3>{{ product.name }}</h3>
+
+  <img
+    mat-card-image
+    [src]="product.image"
+    [alt]="product.name"
+    style="height: 10rem"
+  />
+
+  <p>{{ product.description }}</p>
+
+  <h3> Price: {{ product.price | currency }} <small>({{ product.reviews }} Reviews)</small></h3>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-button mat-dialog-close>Cancel</button>
+  <button mat-button cdkFocusInitial (click)="addToCart(product)">
+    <mat-icon>add</mat-icon>
+    Add to Cart
+  </button>
+</mat-dialog-actions>

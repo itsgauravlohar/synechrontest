@@ -1,0 +1,20 @@
+<mat-card class="example-card" appearance="outlined">
+  <mat-card-header>
+    <mat-card-title>{{ product?.name }}</mat-card-title>
+  </mat-card-header>
+  <img mat-card-image [src]="product?.image" [alt]="product?.name" />
+  <mat-card-content>
+    <p>
+      <strong>Price: {{ product?.price | currency }}</strong>
+      <small> ({{ product?.reviews }} Reviews)</small>
+    </p>
+  </mat-card-content>
+  @if(!hideAddtoCart){
+  <mat-card-actions fxLayoutAlign="end end">
+    <button mat-fab extended class="btn-action" (click)="openViewDialog()">
+      <mat-icon>shopping_cart</mat-icon>
+      Buy
+    </button>
+  </mat-card-actions>
+  }
+</mat-card>
