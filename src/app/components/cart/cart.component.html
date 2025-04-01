@@ -1,0 +1,13 @@
+<div fxLayout="row wrap" fxLayoutGap="10">
+  <div fxFlex></div>
+  <div fxFlex="80">
+    <h3>Product list:</h3>
+    <hr />
+    @if (_dataSource) { @for (product of _dataSource | async; track $index) {
+    <app-card [product]="product" [hideAddtoCart]="true"></app-card>
+    } } @else {
+    <p style="height: 100%; align-self: center">No Product Available...!!</p>
+    }
+  </div>
+  <div fxFlex></div>
+</div>
